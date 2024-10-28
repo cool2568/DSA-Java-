@@ -1,3 +1,5 @@
+package Bubble;
+
 public class Bubble {
     public static void main(String[] args) {
         int[] nums = {7, 9, 3, 5, 1};

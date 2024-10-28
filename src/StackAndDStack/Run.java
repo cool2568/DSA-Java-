@@ -1,3 +1,5 @@
+package StackAndDStack;
+
 public class Run {
     public static void main(String[] args) {
         DStack num=new DStack();

@@ -1,3 +1,5 @@
+package SelectionSort;
+
 public class SelectionSort {
     public static void main(String[] args) {
         int [] nums= {2,4,5,7,3,1};

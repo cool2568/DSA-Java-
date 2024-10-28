@@ -1,3 +1,5 @@
+package Queue;
+
 public class Runn {
     public static void main(String[] args) {
     Queue q =new Queue();
@@ -11,6 +13,7 @@ public class Runn {
         q.show();
         q.inQueue(7);
         q.show();
+
 
 
         q.dequeue();

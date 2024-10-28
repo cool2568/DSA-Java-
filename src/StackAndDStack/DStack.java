@@ -1,3 +1,5 @@
+package StackAndDStack;
+
 public class DStack {
     int capacity = 2;
     int[] stack = new int[capacity];

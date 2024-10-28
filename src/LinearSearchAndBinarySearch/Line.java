@@ -1,3 +1,5 @@
+package LinearSearchAndBinarySearch;
+
 public class Line {
     public static void main(String[] args) {
     int[] nums = new int[1000];

@@ -1,3 +1,5 @@
+package QuickSort;
+
 public class Sort {
     public static void quickSort(int []arr,int low, int high){
     if (low<high){  // low should be low high should be high
